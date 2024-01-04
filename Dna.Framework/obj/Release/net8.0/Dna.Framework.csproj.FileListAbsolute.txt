@@ -1,0 +1,11 @@
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\bin\Release\net8.0\Dna.Framework.deps.json
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\bin\Release\net8.0\Dna.Framework.dll
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\bin\Release\net8.0\Dna.Framework.pdb
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.AssemblyInfoInputs.cache
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.AssemblyInfo.cs
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.csproj.CoreCompileInputs.cache
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.dll
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\refint\Dna.Framework.dll
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\Dna.Framework.pdb
+C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\obj\Release\net8.0\ref\Dna.Framework.dll

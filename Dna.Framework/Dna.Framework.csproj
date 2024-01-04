@@ -1,0 +1,26 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <Authors>Olonyl Landeros</Authors>
+    <Company>Anura Software</Company>
+    <Description>A cross-platform base framework useful for all projects that use .Net Core</Description>
+    <PackageProjectUrl>https://github.com/olonyl/dummy-nugget-app</PackageProjectUrl>
+    <PackageIcon>3969785.png</PackageIcon>
+    <RepositoryUrl>https://github.com/olonyl/dummy-nugget-app</RepositoryUrl>
+    <PackageTags>dna framework olonyl web core cross platform</PackageTags>
+    <PackageReleaseNotes>A cross-platform base framework useful for all projects that use .Net Core</PackageReleaseNotes>
+    <PackageId>olonyl.$(AssemblyName)</PackageId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\Downloads\3969785.png">
+      <Pack>True</Pack>
+      <PackagePath>\</PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>olonyl.Dna.Framework</id>
+    <version>1.0.0</version>
+    <authors>Olonyl Landeros</authors>
+    <icon>3969785.png</icon>
+    <projectUrl>https://github.com/olonyl/dummy-nugget-app</projectUrl>
+    <description>A cross-platform base framework useful for all projects that use .Net Core</description>
+    <releaseNotes>A cross-platform base framework useful for all projects that use .Net Core</releaseNotes>
+    <tags>dna framework olonyl web core cross platform</tags>
+    <repository type="git" url="https://github.com/olonyl/dummy-nugget-app" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Olonyl\source\repos\LoggerSourceFormatter\Dna.Framework\bin\Release\net8.0\Dna.Framework.dll" target="lib\net8.0\Dna.Framework.dll" />
+    <file src="C:\Users\Olonyl\Downloads\3969785.png" target="\3969785.png" />
+  </files>
+</package>
